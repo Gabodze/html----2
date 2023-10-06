@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(./fonts/Inter-Bold.ttf);
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(./fonts/Inter-Regular.ttf);
+}
+
+h1{
+  font-family: 'Inter';
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+}
+
+table{
+  width: 100%;
+}
+.heading2{
+  margin-top: 37px;
+}
+p{
+  margin-top: 0;
+  font-family: 'Inter';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+
+}
